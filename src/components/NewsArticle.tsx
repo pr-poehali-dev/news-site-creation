@@ -22,7 +22,7 @@ const NewsArticle = ({ title, content }: NewsArticleProps) => {
       </div>
       <CardHeader>
         <div className="flex items-center text-gray-500 text-sm mb-3">
-          <span>04 июня 2024</span>
+          <span>15 апреля 2025</span>
           <span className="mx-2">•</span>
           <span>Прокуратура Ульяновской области</span>
         </div>

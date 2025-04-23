@@ -10,7 +10,7 @@ const Header = () => {
         <div className="flex items-center justify-between h-16">
           <Link to="/" className="flex items-center gap-2">
             <Newspaper className="h-6 w-6 text-purple-600" />
-            <span className="font-bold text-xl">НовостиОнлайн</span>
+            <span className="font-bold text-xl">Ишеевский вестник</span>
           </Link>
           
           <nav className="hidden md:flex items-center space-x-6">

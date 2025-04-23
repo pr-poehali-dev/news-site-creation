@@ -12,8 +12,8 @@ const NewsArticle = ({ title, content }: NewsArticleProps) => {
     <Card className="overflow-hidden">
       <div className="h-72 bg-gray-200 relative">
         <img 
-          src="/placeholder.svg" 
-          alt="Новостная иллюстрация" 
+          src="https://images.unsplash.com/photo-1511895426328-dc8714191300?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" 
+          alt="Гуляющая семья" 
           className="w-full h-full object-cover"
         />
         <div className="absolute top-4 left-4 bg-purple-600 text-white text-xs px-2 py-1 rounded">
